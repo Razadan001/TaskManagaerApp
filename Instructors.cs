@@ -28,9 +28,6 @@ namespace TaskManagaerApp
             throw new NotImplementedException();
         }
 
-        public void Post(string postName)
-        {
-            throw new NotImplementedException();
-        }
+    
     }
 }

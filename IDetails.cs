@@ -9,7 +9,6 @@ namespace TaskManagaerApp
     public interface IDetails
     {
         void Name(string firstName, string middleName, string LastName);
-        void Post(string postName);
         void Contact(double contact);
         void Email(string email);
         void Address(string address);
