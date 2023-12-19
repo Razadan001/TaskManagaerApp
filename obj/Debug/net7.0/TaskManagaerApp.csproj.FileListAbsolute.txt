@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\C#_Projects\TaskManagaerApp\obj\Debug\net7.0\TaskManagaerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\C#_Projects\TaskManagaerApp\obj\Debug\net7.0\TaskManagaerApp.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\C#_Projects\TaskManagaerApp\obj\Debug\net7.0\TaskManagaerApp.AssemblyInfo.cs
+C:\Users\DELL\Desktop\C#_Projects\TaskManagaerApp\obj\Debug\net7.0\TaskManagaerApp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#_Projects\TaskManagaerApp\bin\Debug\net7.0\TaskManagaerApp.exe
+C:\Users\DELL\Desktop\C#_Projects\TaskManagaerApp\bin\Debug\net7.0\TaskManagaerApp.deps.json
+C:\Users\DELL\Desktop\C#_Projects\TaskManagaerApp\bin\Debug\net7.0\TaskManagaerApp.runtimeconfig.json
+C:\Users\DELL\Desktop\C#_Projects\TaskManagaerApp\bin\Debug\net7.0\TaskManagaerApp.dll
+C:\Users\DELL\Desktop\C#_Projects\TaskManagaerApp\bin\Debug\net7.0\TaskManagaerApp.pdb
+C:\Users\DELL\Desktop\C#_Projects\TaskManagaerApp\obj\Debug\net7.0\TaskManagaerApp.dll
+C:\Users\DELL\Desktop\C#_Projects\TaskManagaerApp\obj\Debug\net7.0\refint\TaskManagaerApp.dll
+C:\Users\DELL\Desktop\C#_Projects\TaskManagaerApp\obj\Debug\net7.0\TaskManagaerApp.pdb
+C:\Users\DELL\Desktop\C#_Projects\TaskManagaerApp\obj\Debug\net7.0\TaskManagaerApp.genruntimeconfig.cache
+C:\Users\DELL\Desktop\C#_Projects\TaskManagaerApp\obj\Debug\net7.0\ref\TaskManagaerApp.dll
