@@ -9,5 +9,8 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TaskManagaerApp
 build_property.ProjectDir = C:\Users\DELL\Desktop\C#_Projects\TaskManagaerApp\
+<<<<<<< HEAD
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+=======
+>>>>>>> 274242ba91cd921fafa476575da9e718da55e9e8

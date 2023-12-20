@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "wGcE4FIvAF5YxlKCWr2E0h0B46944blzKhUN0hgyoMaejQsj2gYtGNqfsDABKo4VtGb38XOv2M7zWa8ugqG7Bg==",
+=======
+  "dgSpecHash": "N3TsMYY2GYOWdw1qCjmvHNgVJJzcW/1IiRUNCYTnTDtD7+P1tKXvIoNOuMQB1rYtJPGLnumxmAISYIJCJlry3Q==",
+>>>>>>> 274242ba91cd921fafa476575da9e718da55e9e8
   "success": true,
   "projectFilePath": "C:\\Users\\DELL\\Desktop\\C#_Projects\\TaskManagaerApp\\TaskManagaerApp.csproj",
   "expectedPackageFiles": [],

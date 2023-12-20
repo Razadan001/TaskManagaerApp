@@ -1,6 +1,7 @@
 {
   "version": 3,
   "targets": {
+<<<<<<< HEAD
     "net8.0": {}
   },
   "libraries": {},
@@ -10,6 +11,16 @@
   "packageFolders": {
     "C:\\Users\\DELL\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+=======
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+>>>>>>> 274242ba91cd921fafa476575da9e718da55e9e8
   },
   "project": {
     "version": "1.0.0",
@@ -20,6 +31,7 @@
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\DELL\\Desktop\\C#_Projects\\TaskManagaerApp\\obj\\",
       "projectStyle": "PackageReference",
+<<<<<<< HEAD
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
@@ -39,6 +51,20 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+=======
+      "configFilePaths": [
+        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+>>>>>>> 274242ba91cd921fafa476575da9e718da55e9e8
           "projectReferences": {}
         }
       },
@@ -49,8 +75,13 @@
       }
     },
     "frameworks": {
+<<<<<<< HEAD
       "net8.0": {
         "targetAlias": "net8.0",
+=======
+      "net7.0": {
+        "targetAlias": "net7.0",
+>>>>>>> 274242ba91cd921fafa476575da9e718da55e9e8
         "imports": [
           "net461",
           "net462",
@@ -67,7 +98,11 @@
             "privateAssets": "all"
           }
         },
+<<<<<<< HEAD
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+=======
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+>>>>>>> 274242ba91cd921fafa476575da9e718da55e9e8
       }
     }
   }
